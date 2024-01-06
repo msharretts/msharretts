@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡Pronouns: She/Her
+⚡I’m currently learning C# as a new software developer.
+⚡ Fun fact: I lived in Alaska and could literally see Russia on a clear day.
+
 <!--
 **msharretts/msharretts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
