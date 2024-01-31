@@ -2,7 +2,7 @@
 
 ⚡Pronouns: She/Her
 
-⚡Currently learning C# as a new software developer.
+⚡Currently learning Java as a new software developer.
 
 ⚡ Fun fact: I lived in Alaska and could literally see Russia on a clear day.
 
